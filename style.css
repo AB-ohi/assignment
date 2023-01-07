@@ -4,7 +4,7 @@
 }
 
 header{
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(images/banner/banner3.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -91,7 +91,7 @@ nav{
 }
 .list-items ul li{
     list-style: none;
-    list-style-image: url(/images/icons/icons8-done-48.png);
+    list-style-image: url(images/icons/icons8-done-48.png);
     margin-bottom: 13px;
 }
 .plan{
@@ -135,7 +135,7 @@ nav{
 } 
 
 .contract{
-    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(/images/watch.png);
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(images/watch.png);
     background-repeat: no-repeat;
     height: 300px;
     width: 1140px;
