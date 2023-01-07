@@ -11,7 +11,7 @@ header{
     height: 960px;
     text-align: end;
 }
-
+/* nav-ber style */
 nav{
     width: 100%;
     
@@ -49,10 +49,6 @@ nav{
     text-align: end;
 }
 
-
-
-
-
 .primary-btn{
     border: none;
     background: #ffffff;
@@ -68,7 +64,7 @@ nav{
     text-decoration: none;
     color: #005FAC;
 }
-
+/* failures of previous */
 .fail-conversation{
     display: flex;
     align-items: center;
